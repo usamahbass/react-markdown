@@ -68,7 +68,6 @@
     "Evan Hensleigh <futuraprime@gmail.com>"
   ],
   "sideEffects": false,
-  "type": "module",
   "main": "index.js",
   "types": "index.d.ts",
   "unpkg": "react-markdown.min.js",
